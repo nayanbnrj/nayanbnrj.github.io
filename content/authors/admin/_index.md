@@ -51,7 +51,7 @@ skills:
   - name: Technical
     items:
       - name: Organic Synthesis
-        description: ''
+        description: 'I have a thing for exotic and strained molecules'
         percent: ''
         icon: flask-vial
         icon_pack: fas
