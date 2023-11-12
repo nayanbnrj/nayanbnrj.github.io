@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Nayan Banerjee   (नयन / নয়ন)
+title: Nayan Banerjee
+(नयन / নয়ন)
 avatar_filename: avatar.png
 # Name pronunciation (optional)
 name_pronunciation: ''
