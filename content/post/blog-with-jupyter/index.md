@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: High-throughput biocatalyst screening
 date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+summary: Vary substrates and enzyme simultaneously!
 ---
 
 

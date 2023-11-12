@@ -70,7 +70,7 @@ sections:
         - title: Undergraduate Researcher
           company: RadCat Group (Prof. Joyram Guin), IACS, India
           company_url: ''
-          company_logo: org-gc
+          company_logo: ''
           location: Kolkata, INDIA
           date_start: '2020-01-01'
           date_end: ''
@@ -79,7 +79,7 @@ sections:
         - title: Summer Undergraduate Research Fellow
           company: Pomerantz Group, University of Minnesota, USA
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: ''
           date_start: '2016-01-01'
           date_end: '2020-12-31'
@@ -88,7 +88,7 @@ sections:
         - title: Undergraduate Researcher
           company: Kim Lab, University of New Mexico, USA
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: ''
           date_start: '2016-01-01'
           date_end: '2020-12-31'
@@ -121,28 +121,29 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: 'Awarded to top 1% students of the country'
-          icon: DST
+          icon: edx
           organization: Department of Science and Technology, INDIA
           organization_url: ''
           title: DST INSPIRE Scholarship
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: National Award for exceptional academic excellence
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          organization: Government of West Bengal, INDIA
+          organization_url: ''
+          title: Mamraj Aggarwal Rashtriya Puraskar
+          url: ''
+
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
-          description: ''
+          description: 'National level classroom-laboratory integrated competition sponsored by ACS and held at IISc, Bangalore'
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Winner of ACS Chemenigma'
           url: ''
     design:
       columns: '2'
