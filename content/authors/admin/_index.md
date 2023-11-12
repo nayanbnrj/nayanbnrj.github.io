@@ -92,7 +92,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:nayanbnrj@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/nayanbnrj
@@ -112,7 +112,7 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: orcid
-    icon_pack: fas
+    icon_pack: fab
     link: https://orcid.org/0000-0002-4756-6461
 
 # Highlight the author in author lists? (true/false)
