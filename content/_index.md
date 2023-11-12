@@ -45,7 +45,7 @@ sections:
     design:
       background:
         gradient_start: '#4bb4e3'
-        gradient_end: '#2b64c3'
+        gradient_end: '#953553'
         text_color_light: true
   - block: skills
     content:
