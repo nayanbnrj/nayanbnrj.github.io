@@ -50,10 +50,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Organic Synthesis
         description: ''
         percent: 90
-        icon: python
+        icon: flask
         icon_pack: fab
       - name: Data Science
         description: ''
