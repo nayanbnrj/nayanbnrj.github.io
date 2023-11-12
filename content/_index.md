@@ -68,22 +68,40 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Undergraduate Researcher
-          company: IACS
-          company_url: 'http://www.iacs.res.in/'
+          company: RadCat Group (Prof. Joyram Guin), IACS, India
+          company_url: ''
           company_logo: org-gc
           location: Kolkata, INDIA
           date_start: '2020-01-01'
           date_end: ''
-          description: ''
-          
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: 'in-person'
+
+        - title: Summer Undergraduate Research Fellow
+          company: Pomerantz Group, University of Minnesota, USA
           company_url: ''
           company_logo: org-x
-          location: California
+          location: ''
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 'in-person'
+
+        - title: Undergraduate Researcher
+          company: Kim Lab, University of New Mexico, USA
+          company_url: ''
+          company_logo: org-x
+          location: ''
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: 'remote'
+        
+        - title: Undergraduate Researcher
+          company: Kumar Lab, University of Arkansas, USA
+          company_url: ''
+          company_logo: org-x
+          location: ''
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: 'remote'
     design:
       columns: '2'
   - block: accomplishments
