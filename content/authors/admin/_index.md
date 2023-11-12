@@ -55,33 +55,33 @@ skills:
         percent: ''
         icon: flask-vial
         icon_pack: fas
-      - name: Data Science
+      - name: Chemical Biology
         description: ''
         percent: 100
-        icon: chart-line
+        icon: dna
         icon_pack: fas
-      - name: SQL
+      - name: Computational Chemistry
         description: ''
-        percent: 40
-        icon: database
+        percent: 100
+        icon: atom
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Swimming
         description: ''
         percent: 100
-        icon: cat
+        icon: person-swimming
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 100
+        icon: book-open-reader
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
