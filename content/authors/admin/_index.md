@@ -1,9 +1,9 @@
 ---
 # Display name
 title: Nayan Banerjee
-
+avatar_filename: avatar.png
 # Name pronunciation (optional)
-name_pronunciation: Nah-yah-anh
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Nayan
