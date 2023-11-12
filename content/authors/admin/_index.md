@@ -3,7 +3,7 @@
 title: Nayan Banerjee 
 avatar_filename: avatar.png
 # Name pronunciation (optional)
-name_pronunciation: 'नयन / নয়ন'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Nayan
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Integrated BS-MS Student
+role: नयन / নয়ন (he/him) Integrated BS-MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
