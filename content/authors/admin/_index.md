@@ -119,5 +119,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a BS-MS student majoring in Chemistry at the Indian Association for the Cultivation of Science (IACS), India. I have a strong passion to solve real world problems amalgamating the knowledge of chemistry and biology. My vision is to utilize chemistry as a central science to orchestrate unchartered reactivity in molecules translating to technological and/or therapeutic relevance.
+    I have garnered a broad spectra of research experiences during my undergraduate years. Through my work in the RadCat group at IACS, led by Prof. Joyram Guin, I explored photoredoc chemistry to leverage sulfonyl-oxime-ethers into bifunctional species for a metal-free oximesulfonylation protocol for olefins. My knowledge in chemical biology was supplemented by my summer REU project at the University of Minnesota, where I worked with Prof. William Pomerantz to design a new class of heterocyclic BRD selective inhibitors, followed by their biophysical screening. 
 {style="text-align: justify;"}
