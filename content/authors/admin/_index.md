@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: नयन / নয়ন (he/him) Integrated BS-MS Student
+role: नयन / নয়ন (Pronouns- he/him/his)   Integrated BS-MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
