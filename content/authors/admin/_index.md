@@ -53,8 +53,8 @@ skills:
       - name: Organic Synthesis
         description: ''
         percent: 90
-        icon: flask
-        icon_pack: fab
+        icon: flask-vial
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
