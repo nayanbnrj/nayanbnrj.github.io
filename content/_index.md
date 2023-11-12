@@ -191,8 +191,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Photoredox chemistry
+          tag: Photoredox chemistry
         - name: Other
           tag: Demo
     design:
