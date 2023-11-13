@@ -70,7 +70,7 @@ sections:
         - title: Undergraduate Researcher
           company: RadCat Group (Prof. Joyram Guin), IACS, India
           company_url: ''
-          company_logo: ''
+          company_logo: IACS
           location: Kolkata, INDIA
           date_start: '2020-01-01'
           date_end: ''
@@ -79,19 +79,19 @@ sections:
         - title: Summer Undergraduate Research Fellow
           company: Pomerantz Group, University of Minnesota, USA
           company_url: ''
-          company_logo: ''
+          company_logo: UMN
           location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2022-06-04'
+          date_end: '2022-08-14'
           description: 'in-person'
 
         - title: Undergraduate Researcher
           company: Kim Lab, University of New Mexico, USA
           company_url: ''
-          company_logo: ''
+          company_logo: UNM
           location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2021-04-15'
+          date_end: ''
           description: 'remote'
         
         - title: Undergraduate Researcher
@@ -99,8 +99,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2020-12-01'
+          date_end: ''
           description: 'remote'
     design:
       columns: '2'
@@ -119,9 +119,9 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-06-25'
           description: 'Awarded to top 1% students of the country'
-          icon: org-x
+          icon: DST
           organization: Department of Science and Technology, INDIA
           organization_url: ''
           title: DST INSPIRE Scholarship
@@ -131,20 +131,30 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: National Award for exceptional academic excellence
-          icon: DST
+          icon: GOVT
           organization: Government of West Bengal, INDIA
           organization_url: ''
           title: Mamraj Aggarwal Rashtriya Puraskar
           url: ''
 
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-01-25'
           description: 'National level classroom-laboratory integrated competition sponsored by ACS and held at IISc, Bangalore'
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
+          icon: ACS
+          organization: Sponsored by ACS & Pravega
+          organization_url: ''
           title: 'Winner of ACS Chemenigma'
+          url: ''
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2017-06-14'
+          description: ''
+          icon: JBNSTS
+          organization: Jagadish Bose National Science Talent Search (JBNSTS)
+          organization_url: ''
+          title: 'Junior JBNSTS Scholar'
           url: ''
     design:
       columns: '2'
