@@ -121,7 +121,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: 'Awarded to top 1% students of the country'
-          icon: edx
+          company_logo: org-x
           organization: Department of Science and Technology, INDIA
           organization_url: ''
           title: DST INSPIRE Scholarship
@@ -232,7 +232,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: showcase
       #originally citation
   - block: collection
