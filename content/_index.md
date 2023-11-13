@@ -81,8 +81,8 @@ sections:
           company_url: ''
           company_logo: UMN
           location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2016-06-01'
+          date_end: '2022-08-31'
           description: 'in-person'
 
         - title: Undergraduate Researcher
@@ -90,8 +90,8 @@ sections:
           company_url: ''
           company_logo: UNM
           location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2021-04-01'
+          date_end: ''
           description: 'remote'
         
         - title: Undergraduate Researcher
@@ -99,8 +99,8 @@ sections:
           company_url: ''
           company_logo: UARK
           location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2020-12-01'
+          date_end: ''
           description: 'remote'
     design:
       columns: '2'
@@ -119,7 +119,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-07-25'
           description: 'Awarded to top 1% students of the country'
           icon: DST
           organization: Department of Science and Technology, INDIA
@@ -129,7 +129,7 @@ sections:
         
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2017-09-01'
           description: National Award for exceptional academic excellence
           icon: GOVT
           organization: (NATIONAL AWARD) Government of West Bengal, INDIA
@@ -138,8 +138,8 @@ sections:
           url: ''
 
         - certificate_url: ''
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2020-01-01'
           description: 'National level classroom-laboratory integrated competition sponsored by ACS and held at IISc, Bangalore'
           icon: ACS
           organization: Sponsored by ACS and Pravega
