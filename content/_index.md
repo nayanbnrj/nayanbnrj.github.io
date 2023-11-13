@@ -121,7 +121,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: 'Awarded to top 1% students of the country'
-          company_logo: org-x
+          icon: org-x
           organization: Department of Science and Technology, INDIA
           organization_url: ''
           title: DST INSPIRE Scholarship
@@ -131,7 +131,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: National Award for exceptional academic excellence
-          icon: org-x
+          icon: DST
           organization: Government of West Bengal, INDIA
           organization_url: ''
           title: Mamraj Aggarwal Rashtriya Puraskar
