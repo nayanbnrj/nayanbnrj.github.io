@@ -70,7 +70,7 @@ sections:
         - title: Undergraduate Researcher
           company: RadCat Group (Prof. Joyram Guin), IACS, India
           company_url: ''
-          company_logo: org-x
+          company_logo: IACS
           location: Kolkata, INDIA
           date_start: '2020-01-01'
           date_end: ''
