@@ -126,21 +126,12 @@ sections:
           organization_url: ''
           title: DST INSPIRE Scholarship
           url: ''
-          
-        -title: Undergraduate Researcher
-          company: Kumar Lab, University of Arkansas, USA
-          company_url: ''
-          company_logo: org-x
-          location: ''
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: 'remote'
-
+        
         - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
           description: National Award for exceptional academic excellence
-          icon: edx
+          icon: org-x
           organization: Government of West Bengal, INDIA
           organization_url: ''
           title: Mamraj Aggarwal Rashtriya Puraskar
