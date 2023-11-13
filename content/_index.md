@@ -132,18 +132,18 @@ sections:
           date_start: '2021-01-01'
           description: National Award for exceptional academic excellence
           icon: GOVT
-          organization: Government of West Bengal, INDIA
+          organization: (NATIONAL AWARD) Government of West Bengal, INDIA
           organization_url: ''
           title: Mamraj Aggarwal Rashtriya Puraskar
           url: ''
 
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: ''
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: 'National level classroom-laboratory integrated competition sponsored by ACS and held at IISc, Bangalore'
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
+          icon: ACS
+          organization: Sponsored by ACS and Pravega
+          organization_url: ''
           title: 'Winner of ACS Chemenigma'
           url: ''
     design:
