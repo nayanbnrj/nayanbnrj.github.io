@@ -79,7 +79,7 @@ sections:
         - title: Summer Undergraduate Research Fellow
           company: Pomerantz Group, University of Minnesota, USA
           company_url: ''
-          company_logo: org-x
+          company_logo: UMN
           location: ''
           date_start: '2016-01-01'
           date_end: '2020-12-31'
@@ -88,7 +88,7 @@ sections:
         - title: Undergraduate Researcher
           company: Kim Lab, University of New Mexico, USA
           company_url: ''
-          company_logo: org-x
+          company_logo: UNM
           location: ''
           date_start: '2016-01-01'
           date_end: '2020-12-31'
@@ -97,7 +97,7 @@ sections:
         - title: Undergraduate Researcher
           company: Kumar Lab, University of Arkansas, USA
           company_url: ''
-          company_logo: org-x
+          company_logo: UARK
           location: ''
           date_start: '2016-01-01'
           date_end: '2020-12-31'
